@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main  # Adjust the branch name if necessary
+      - master
 
 jobs:
   update-readme:
