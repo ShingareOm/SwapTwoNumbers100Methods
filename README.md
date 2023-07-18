@@ -55,7 +55,4 @@ Let's swap numbers in 100 different ways and redefine the art of number intercha
 We appreciate and recognize all contributors! Your valuable contributions make this repository a vibrant and diverse community effort. Thank you!
 
 - [Om Shingare](https://github.com/ShingareOm)
-
-
-Contributors:
-
+- [Purushottam Sarsekar](https://github.com/purushottam54)
