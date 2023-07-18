@@ -3,8 +3,8 @@ name: Update Contributors
 on:
   push:
     branches:
-      - main  # Adjust the branch name if necessary
       - master
+      - main
 
 jobs:
   update-readme:
@@ -14,9 +14,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Contributer Added README.md
+      - name: Update README.md
         run: |
-          contributors=$(git shortlog -s -n | awk '{print "- " $2}')
+          contributors=$(git shortlog -s -n | awk '{print "- ["$2"](https://github.com/"$2")"}')
           echo -e "\n\nContributors:\n$contributors" >> README.md
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
