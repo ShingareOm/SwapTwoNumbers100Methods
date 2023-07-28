@@ -1,7 +1,5 @@
 # SwapTwoNumbers100Methods
 
-![SwapTwoNumbers100Methods Logo](repo-image.png)
-
 Discover innovative methods to swap two numbers in this collaborative repository!
 
 ---
@@ -25,7 +23,7 @@ Make sure to adhere to our [Contribution Guidelines](CONTRIBUTING.md) for a smoo
 
 The repository is organized as follows:
 
-
+```plaintext
 📁 methods
 ├── 📄 method1.js
 ├── 📄 method2.js
@@ -34,13 +32,14 @@ The repository is organized as follows:
 📄 README.md
 📄 CONTRIBUTING.md
 📄 LICENSE
+```
 
 
 In the `methods` directory, you will find the different methods contributed by our community members.
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE).
+This repository is licensed under the [MIT License](LICENSE.txt).
 
 
 ## Join the Discussion
@@ -55,4 +54,5 @@ Let's swap numbers in 100 different ways and redefine the art of number intercha
 
 We appreciate and recognize all contributors! Your valuable contributions make this repository a vibrant and diverse community effort. Thank you!
 
-- Om Shingare ([@ShingareOm](https://github.com/ShingareOm))
+- [Om Shingare](https://github.com/ShingareOm)
+- [Purushottam Sarsekar](https://github.com/purushottam54)
